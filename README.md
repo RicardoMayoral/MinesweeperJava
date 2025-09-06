@@ -8,4 +8,6 @@ The course served as a strong reinforcement for multiple programming languages a
 Even though this class tackled both Java and Python as its main programming languages, this project began as part of the Java section of the course and was later on completed with full 
 implementations for the base mechanics of Minesweeper.
 
+The part that required the most work and time in this project were the mouse control mechanics for selecting everything ranging from the actual grid selections, to the Flag sets for revealing the mines.
+
 Overall, this project allowed me to pursue my existing curiosities with Java at the time and gave me some strong skills that I would utilize and develop even further when I tackled Advanced Python programming.
